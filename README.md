@@ -5,8 +5,7 @@
 - ✅ Day1: PyTorch基础 + FastAPI入门
 - ✅ Day2: 模型训练 + 简单API部署
 - ✅ Day3: 模型推理封装 + 接口优化
-- ✅ Day4: MNIST手写数字识别CNN完整项目（训练+API部署）
-- 🚧 Day5: 数据增强 + 验证集划分 + 过拟合与Dropout
-- ...（后续每天学完更新）
+- ✅ Day4: MNIST手写数字识别CNN完整项目
+- ✅ Day5: 数据增强 + 验证集划分 + Dropout防过拟合
 
 ## 项目结构
